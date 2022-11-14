@@ -12,6 +12,10 @@ The purpose of this analysis is to compare the temperatures in the months of Jun
 - The high temperature for June was 85 degrees while December was 83. 
 - It did rain more in June as opposed to December as you can see below.
 
+![https://github.com/DrewSears11/surfs_up/blob/main/December_temps.png]
+
+![https://github.com/DrewSears11/surfs_up/blob/main/June_temps.png]
+
 
 
 
